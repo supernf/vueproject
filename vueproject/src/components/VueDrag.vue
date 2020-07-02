@@ -6,7 +6,7 @@
       </div>
       <div class="panel-body">
         <div class="checkbox">
-          <label><input type="checkbox" v-model="editable">Enable drag and drop</label>
+          <label><input type="checkbox" v-model="editable">测试11111</label>
         </div>
         <button type="button" class="btn btn-default" @click="orderList">Sort by original order</button>
       </div>
