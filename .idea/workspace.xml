@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20c359ed-c545-4c21-bc93-04345154dc13" name="Default Changelist" comment="first add" />
+    <list default="true" id="20c359ed-c545-4c21-bc93-04345154dc13" name="Default Changelist" comment="add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +123,7 @@
       <workItem from="1592450868398" duration="33585000" />
       <workItem from="1592787539154" duration="2658000" />
       <workItem from="1593488390162" duration="4189000" />
-      <workItem from="1593651469056" duration="13138000" />
+      <workItem from="1593651469056" duration="13467000" />
     </task>
     <task id="LOCAL-00001" summary="first add">
       <created>1593669572956</created>
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593673356185</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add">
+      <created>1593677061596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593677061596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +154,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first add" />
-    <option name="LAST_COMMIT_MESSAGE" value="first add" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
     <state x="700" y="286" key="#Custom_Plugin_Repositories" timestamp="1592450490392">
@@ -218,6 +226,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="710" y="221" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593674013564" />
+    <state x="261" y="95" key="Git.Interactive.Rebase.Dialog" timestamp="1593677293707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="95" key="Git.Interactive.Rebase.Dialog/0.0.1536.824@0.0.1536.824" timestamp="1593677293707" />
     <state x="579" y="331" key="Github.CreateGistDialog" timestamp="1593669834080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -326,10 +338,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1593670353087" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593669325366">
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593677341763">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1593669325366" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1593677341763" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1593676702687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -350,10 +362,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1593672319158" />
-    <state x="568" y="311" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1593674259643">
+    <state x="511" y="272" key="git4idea.rebase.GitRebaseDialog" timestamp="1593677286920">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="568" y="311" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593674259643" />
+    <state x="511" y="272" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1593677286920" />
+    <state x="568" y="311" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1593677322396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="568" y="311" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593677322396" />
     <state x="401" y="95" key="new project wizard" timestamp="1592453824873">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
